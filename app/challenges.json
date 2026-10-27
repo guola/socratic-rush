@@ -1,0 +1,1402 @@
+[
+  {
+    "id": 1,
+    "skill": "clarify",
+    "claim": {
+      "zh": "AI说：这是最好的游戏。",
+      "en": "AI: This is the best game.",
+      "ja": "AI「最高のゲームです」"
+    },
+    "good": {
+      "zh": "“最好”按什么标准？",
+      "en": "Best by which measure?",
+      "ja": "「最高」の基準は？"
+    }
+  },
+  {
+    "id": 2,
+    "skill": "clarify",
+    "claim": {
+      "zh": "爸爸说：早点出发。",
+      "en": "Dad: Let's leave early.",
+      "ja": "パパ「早めに出よう」"
+    },
+    "good": {
+      "zh": "具体几点出发？",
+      "en": "What time exactly?",
+      "ja": "具体的に何時？"
+    }
+  },
+  {
+    "id": 3,
+    "skill": "clarify",
+    "claim": {
+      "zh": "AI说：每天练一会儿。",
+      "en": "AI: Practise a little daily.",
+      "ja": "AI「毎日少し練習しよう」"
+    },
+    "good": {
+      "zh": "“一会儿”是几分钟？",
+      "en": "How many minutes is a little?",
+      "ja": "「少し」は何分？"
+    }
+  },
+  {
+    "id": 4,
+    "skill": "clarify",
+    "claim": {
+      "zh": "朋友说：这个太难了。",
+      "en": "Friend: This is too hard.",
+      "ja": "友達「これは難しすぎる」"
+    },
+    "good": {
+      "zh": "哪一步最难？",
+      "en": "Which step is hardest?",
+      "ja": "どの手順が難しい？"
+    }
+  },
+  {
+    "id": 5,
+    "skill": "clarify",
+    "claim": {
+      "zh": "AI说：要更有创意。",
+      "en": "AI: Be more creative.",
+      "ja": "AI「もっと創造的に」"
+    },
+    "good": {
+      "zh": "能给一个具体例子吗？",
+      "en": "Can you give a concrete example?",
+      "ja": "具体例を一つ教えて？"
+    }
+  },
+  {
+    "id": 6,
+    "skill": "clarify",
+    "claim": {
+      "zh": "老师说：多读书。",
+      "en": "Teacher: Read more.",
+      "ja": "先生「もっと読書しよう」"
+    },
+    "good": {
+      "zh": "目标是每天读多少？",
+      "en": "How much should I read each day?",
+      "ja": "一日にどのくらい読む？"
+    }
+  },
+  {
+    "id": 7,
+    "skill": "clarify",
+    "claim": {
+      "zh": "AI说：这个方案更公平。",
+      "en": "AI: This plan is fairer.",
+      "ja": "AI「この案はより公平です」"
+    },
+    "good": {
+      "zh": "这里的“公平”指什么？",
+      "en": "What does fair mean here?",
+      "ja": "ここで「公平」とは？"
+    }
+  },
+  {
+    "id": 8,
+    "skill": "clarify",
+    "claim": {
+      "zh": "Mark说：电脑好慢。",
+      "en": "Mark: My computer is slow.",
+      "ja": "Mark「パソコンが遅い」"
+    },
+    "good": {
+      "zh": "打开程序还是上网慢？",
+      "en": "Slow to open apps or browse?",
+      "ja": "起動とネット、どちらが遅い？"
+    }
+  },
+  {
+    "id": 9,
+    "skill": "clarify",
+    "claim": {
+      "zh": "AI说：火星离我们很近。",
+      "en": "AI: Mars is close to us.",
+      "ja": "AI「火星は近いです」"
+    },
+    "good": {
+      "zh": "和什么相比算近？",
+      "en": "Close compared with what?",
+      "ja": "何と比べて近い？"
+    }
+  },
+  {
+    "id": 10,
+    "skill": "clarify",
+    "claim": {
+      "zh": "爸爸说：要合理安排时间。",
+      "en": "Dad: Use your time wisely.",
+      "ja": "パパ「時間をうまく使おう」"
+    },
+    "good": {
+      "zh": "今天先安排哪三件事？",
+      "en": "Which three tasks should we plan today?",
+      "ja": "今日は何を三つ計画する？"
+    }
+  },
+  {
+    "id": 11,
+    "skill": "clarify",
+    "claim": {
+      "zh": "AI说：这是健康的零食。",
+      "en": "AI: This is a healthy snack.",
+      "ja": "AI「健康的なおやつです」"
+    },
+    "good": {
+      "zh": "“健康”指哪项特点？",
+      "en": "Which feature makes it healthy?",
+      "ja": "「健康的」とはどの特徴？"
+    }
+  },
+  {
+    "id": 12,
+    "skill": "clarify",
+    "claim": {
+      "zh": "队友说：我们要合作。",
+      "en": "Teammate: We need teamwork.",
+      "ja": "仲間「協力しよう」"
+    },
+    "good": {
+      "zh": "每个人具体做什么？",
+      "en": "What exactly does each person do?",
+      "ja": "一人ずつ何をする？"
+    }
+  },
+  {
+    "id": 13,
+    "skill": "clarify",
+    "claim": {
+      "zh": "AI说：这个词很常用。",
+      "en": "AI: This word is common.",
+      "ja": "AI「よく使う言葉です」"
+    },
+    "good": {
+      "zh": "在什么场合常用？",
+      "en": "Common in which situations?",
+      "ja": "どんな場面でよく使う？"
+    }
+  },
+  {
+    "id": 14,
+    "skill": "clarify",
+    "claim": {
+      "zh": "朋友说：你不够认真。",
+      "en": "Friend: You're not trying.",
+      "ja": "友達「真剣じゃないね」"
+    },
+    "good": {
+      "zh": "你指的是哪次行为？",
+      "en": "Which action do you mean?",
+      "ja": "どの行動のこと？"
+    }
+  },
+  {
+    "id": 15,
+    "skill": "clarify",
+    "claim": {
+      "zh": "AI说：写一篇短文。",
+      "en": "AI: Write a short piece.",
+      "ja": "AI「短い文を書こう」"
+    },
+    "good": {
+      "zh": "大约需要多少字？",
+      "en": "About how many words?",
+      "ja": "何文字くらい？"
+    }
+  },
+  {
+    "id": 16,
+    "skill": "clarify",
+    "claim": {
+      "zh": "AI说：优化这个提示词。",
+      "en": "AI: Improve this prompt.",
+      "ja": "AI「このプロンプトを改善して」"
+    },
+    "good": {
+      "zh": "想改善答案的哪一部分？",
+      "en": "Which part of the answer needs improving?",
+      "ja": "回答のどの部分を改善したい？"
+    }
+  },
+  {
+    "id": 17,
+    "skill": "clarify",
+    "claim": {
+      "zh": "爸爸说：这次玩得很棒。",
+      "en": "Dad: That was great play.",
+      "ja": "パパ「いいプレイだったね」"
+    },
+    "good": {
+      "zh": "哪一个动作做得好？",
+      "en": "Which move was good?",
+      "ja": "どの動きがよかった？"
+    }
+  },
+  {
+    "id": 18,
+    "skill": "evidence",
+    "claim": {
+      "zh": "AI说：章鱼有三颗心脏。",
+      "en": "AI: Octopuses have three hearts.",
+      "ja": "AI「タコの心臓は三つです」"
+    },
+    "good": {
+      "zh": "哪里能核实这个说法？",
+      "en": "Where can we verify this?",
+      "ja": "どこで確認できる？"
+    }
+  },
+  {
+    "id": 19,
+    "skill": "evidence",
+    "claim": {
+      "zh": "广告说：全班都在玩。",
+      "en": "Ad: Everyone in class plays.",
+      "ja": "広告「クラス全員が遊んでる」"
+    },
+    "good": {
+      "zh": "调查了多少同学？",
+      "en": "How many classmates were surveyed?",
+      "ja": "何人に調査した？"
+    }
+  },
+  {
+    "id": 20,
+    "skill": "evidence",
+    "claim": {
+      "zh": "AI给出一本陌生的书。",
+      "en": "AI names an unfamiliar book.",
+      "ja": "AIが知らない本を紹介した"
+    },
+    "good": {
+      "zh": "能给出可查的出版信息吗？",
+      "en": "Can you give verifiable publication details?",
+      "ja": "確認できる出版情報は？"
+    }
+  },
+  {
+    "id": 21,
+    "skill": "evidence",
+    "claim": {
+      "zh": "朋友说：这招一定赢。",
+      "en": "Friend: This move always wins.",
+      "ja": "友達「この技なら必ず勝つ」"
+    },
+    "good": {
+      "zh": "试过多少次，输了几次？",
+      "en": "How many tries and how many losses?",
+      "ja": "何回試して何回負けた？"
+    }
+  },
+  {
+    "id": 22,
+    "skill": "evidence",
+    "claim": {
+      "zh": "AI说：恐龙都很巨大。",
+      "en": "AI: All dinosaurs were huge.",
+      "ja": "AI「恐竜は全部巨大でした」"
+    },
+    "good": {
+      "zh": "有小型恐龙的化石吗？",
+      "en": "Are there fossils of small dinosaurs?",
+      "ja": "小さい恐竜の化石はある？"
+    }
+  },
+  {
+    "id": 23,
+    "skill": "evidence",
+    "claim": {
+      "zh": "帖子说：这张图是真的。",
+      "en": "Post: This picture is real.",
+      "ja": "投稿「この写真は本物です」"
+    },
+    "good": {
+      "zh": "能找到最初的出处吗？",
+      "en": "Can we find the original source?",
+      "ja": "元の出典を探せる？"
+    }
+  },
+  {
+    "id": 24,
+    "skill": "evidence",
+    "claim": {
+      "zh": "AI算出：17×8＝146。",
+      "en": "AI says: 17 × 8 = 146.",
+      "ja": "AI「17×8＝146」"
+    },
+    "good": {
+      "zh": "能拆开计算验证吗？",
+      "en": "Can we split the calculation to check?",
+      "ja": "分けて計算して確認できる？"
+    }
+  },
+  {
+    "id": 25,
+    "skill": "evidence",
+    "claim": {
+      "zh": "爸爸说：这条路更快。",
+      "en": "Dad: This route is faster.",
+      "ja": "パパ「この道のほうが速い」"
+    },
+    "good": {
+      "zh": "两条路实际各用多久？",
+      "en": "How long does each route actually take?",
+      "ja": "実際にそれぞれ何分かかる？"
+    }
+  },
+  {
+    "id": 26,
+    "skill": "evidence",
+    "claim": {
+      "zh": "AI说：九成人喜欢猫。",
+      "en": "AI: Nine in ten prefer cats.",
+      "ja": "AI「9割の人は猫が好きです」"
+    },
+    "good": {
+      "zh": "这项统计来自哪里？",
+      "en": "Where does that statistic come from?",
+      "ja": "その統計の出典は？"
+    }
+  },
+  {
+    "id": 27,
+    "skill": "evidence",
+    "claim": {
+      "zh": "队友说：换球鞋就能赢。",
+      "en": "Teammate: New shoes mean victory.",
+      "ja": "仲間「靴を替えれば勝てる」"
+    },
+    "good": {
+      "zh": "有什么比较测试支持？",
+      "en": "What comparison tests support that?",
+      "ja": "比較したテストはある？"
+    }
+  },
+  {
+    "id": 28,
+    "skill": "evidence",
+    "claim": {
+      "zh": "AI说：这句名言是苏格拉底说的。",
+      "en": "AI credits a quote to Socrates.",
+      "ja": "AIが名言をソクラテスの言葉とした"
+    },
+    "good": {
+      "zh": "最早记录在哪篇文献？",
+      "en": "What is its earliest recorded source?",
+      "ja": "最古の記録はどの文献？"
+    }
+  },
+  {
+    "id": 29,
+    "skill": "evidence",
+    "claim": {
+      "zh": "朋友说：种子一天就发芽。",
+      "en": "Friend: Seeds sprout in a day.",
+      "ja": "友達「種は一日で芽が出る」"
+    },
+    "good": {
+      "zh": "有连续观察记录吗？",
+      "en": "Do we have an observation log?",
+      "ja": "観察記録はある？"
+    }
+  },
+  {
+    "id": 30,
+    "skill": "evidence",
+    "claim": {
+      "zh": "AI说：这段程序不会报错。",
+      "en": "AI: This code has no errors.",
+      "ja": "AI「このコードはエラーなし」"
+    },
+    "good": {
+      "zh": "能用边界输入测试吗？",
+      "en": "Can we test boundary inputs?",
+      "ja": "境界値でテストできる？"
+    }
+  },
+  {
+    "id": 31,
+    "skill": "evidence",
+    "claim": {
+      "zh": "短视频说：月亮会发光。",
+      "en": "Video: The Moon makes light.",
+      "ja": "動画「月は自分で光る」"
+    },
+    "good": {
+      "zh": "哪些观测支持这个解释？",
+      "en": "What observations support that explanation?",
+      "ja": "どんな観測が根拠？"
+    }
+  },
+  {
+    "id": 32,
+    "skill": "evidence",
+    "claim": {
+      "zh": "AI说：新规则让人更开心。",
+      "en": "AI: New rules make people happier.",
+      "ja": "AI「新ルールで皆が幸せに」"
+    },
+    "good": {
+      "zh": "修改前后有反馈数据吗？",
+      "en": "Is there feedback from before and after?",
+      "ja": "変更前後の感想データは？"
+    }
+  },
+  {
+    "id": 33,
+    "skill": "evidence",
+    "claim": {
+      "zh": "朋友说：我从来不迟到。",
+      "en": "Friend: I am never late.",
+      "ja": "友達「絶対に遅刻しないよ」"
+    },
+    "good": {
+      "zh": "这周的到达记录怎样？",
+      "en": "What do this week's arrival records show?",
+      "ja": "今週の到着記録は？"
+    }
+  },
+  {
+    "id": 34,
+    "skill": "evidence",
+    "claim": {
+      "zh": "AI推荐一个科学实验。",
+      "en": "AI suggests a science experiment.",
+      "ja": "AIが科学実験を提案した"
+    },
+    "good": {
+      "zh": "结果能重复验证吗？",
+      "en": "Can the result be reproduced?",
+      "ja": "結果を再現できる？"
+    }
+  },
+  {
+    "id": 35,
+    "skill": "assumption",
+    "claim": {
+      "zh": "AI说：买最贵的就最好。",
+      "en": "AI: Buy the priciest; it's best.",
+      "ja": "AI「一番高い物が一番いい」"
+    },
+    "good": {
+      "zh": "价格一定代表质量吗？",
+      "en": "Does price always mean quality?",
+      "ja": "値段は必ず品質を表す？"
+    }
+  },
+  {
+    "id": 36,
+    "skill": "assumption",
+    "claim": {
+      "zh": "朋友说：输了就没天赋。",
+      "en": "Friend: Losing means no talent.",
+      "ja": "友達「負けたら才能がない」"
+    },
+    "good": {
+      "zh": "一次失败能代表能力吗？",
+      "en": "Can one loss define ability?",
+      "ja": "一度の負けで能力は決まる？"
+    }
+  },
+  {
+    "id": 37,
+    "skill": "assumption",
+    "claim": {
+      "zh": "AI说：所有人都能骑车来。",
+      "en": "AI: Everyone can cycle here.",
+      "ja": "AI「全員自転車で来られます」"
+    },
+    "good": {
+      "zh": "是不是默认人人都有车？",
+      "en": "Are we assuming everyone owns a bike?",
+      "ja": "全員が自転車を持つ前提？"
+    }
+  },
+  {
+    "id": 38,
+    "skill": "assumption",
+    "claim": {
+      "zh": "爸爸说：安静就是听懂了。",
+      "en": "Dad: Quiet means you understand.",
+      "ja": "パパ「静かなら理解している」"
+    },
+    "good": {
+      "zh": "沉默一定表示理解吗？",
+      "en": "Does silence always mean understanding?",
+      "ja": "沈黙は必ず理解のしるし？"
+    }
+  },
+  {
+    "id": 39,
+    "skill": "assumption",
+    "claim": {
+      "zh": "AI说：下载软件就能学习。",
+      "en": "AI: Downloading the app means learning.",
+      "ja": "AI「アプリを入れれば学べる」"
+    },
+    "good": {
+      "zh": "是不是默认会坚持使用？",
+      "en": "Are we assuming it will be used regularly?",
+      "ja": "使い続ける前提になっている？"
+    }
+  },
+  {
+    "id": 40,
+    "skill": "assumption",
+    "claim": {
+      "zh": "队友说：个子高就擅长篮球。",
+      "en": "Teammate: Tall people are good at basketball.",
+      "ja": "仲間「背が高いとバスケが上手」"
+    },
+    "good": {
+      "zh": "是不是忽略了训练？",
+      "en": "Are we overlooking training?",
+      "ja": "練習を見落としていない？"
+    }
+  },
+  {
+    "id": 41,
+    "skill": "assumption",
+    "claim": {
+      "zh": "AI说：点赞多就可信。",
+      "en": "AI: Many likes mean it's reliable.",
+      "ja": "AI「いいねが多ければ信頼できる」"
+    },
+    "good": {
+      "zh": "人气等于真实吗？",
+      "en": "Does popularity equal truth?",
+      "ja": "人気は真実と同じ？"
+    }
+  },
+  {
+    "id": 42,
+    "skill": "assumption",
+    "claim": {
+      "zh": "朋友说：大人永远是对的。",
+      "en": "Friend: Adults are always right.",
+      "ja": "友達「大人はいつも正しい」"
+    },
+    "good": {
+      "zh": "是不是默认年龄保证正确？",
+      "en": "Are we assuming age guarantees accuracy?",
+      "ja": "年齢が正しさを保証する前提？"
+    }
+  },
+  {
+    "id": 43,
+    "skill": "assumption",
+    "claim": {
+      "zh": "AI说：周末大家都有空。",
+      "en": "AI: Everyone is free on weekends.",
+      "ja": "AI「週末は皆ひまです」"
+    },
+    "good": {
+      "zh": "是不是假设日程都一样？",
+      "en": "Are we assuming identical schedules?",
+      "ja": "皆の予定が同じという前提？"
+    }
+  },
+  {
+    "id": 44,
+    "skill": "assumption",
+    "claim": {
+      "zh": "AI说：长答案比短答案好。",
+      "en": "AI: Long answers are better.",
+      "ja": "AI「長い回答のほうがいい」"
+    },
+    "good": {
+      "zh": "是不是把长度当成质量？",
+      "en": "Are we treating length as quality?",
+      "ja": "長さを品質とみなしていない？"
+    }
+  },
+  {
+    "id": 45,
+    "skill": "assumption",
+    "claim": {
+      "zh": "爸爸说：第一名一定最努力。",
+      "en": "Dad: First place worked the hardest.",
+      "ja": "パパ「一位が一番努力した」"
+    },
+    "good": {
+      "zh": "是不是忽略了起点差异？",
+      "en": "Are we ignoring different starting points?",
+      "ja": "スタート地点の違いは？"
+    }
+  },
+  {
+    "id": 46,
+    "skill": "assumption",
+    "claim": {
+      "zh": "AI说：更多作业带来更好成绩。",
+      "en": "AI: More homework means better scores.",
+      "ja": "AI「宿題が多いほど成績が上がる」"
+    },
+    "good": {
+      "zh": "是不是默认数量决定效果？",
+      "en": "Are we assuming quantity determines results?",
+      "ja": "量で効果が決まる前提？"
+    }
+  },
+  {
+    "id": 47,
+    "skill": "assumption",
+    "claim": {
+      "zh": "朋友说：没人反对就是同意。",
+      "en": "Friend: No objections means agreement.",
+      "ja": "友達「反対がなければ賛成だ」"
+    },
+    "good": {
+      "zh": "是不是默认每个人敢发言？",
+      "en": "Are we assuming everyone feels able to speak?",
+      "ja": "全員が意見を言える前提？"
+    }
+  },
+  {
+    "id": 48,
+    "skill": "assumption",
+    "claim": {
+      "zh": "AI说：有网络就能查到一切。",
+      "en": "AI: The web has every answer.",
+      "ja": "AI「ネットで全部分かる」"
+    },
+    "good": {
+      "zh": "是不是默认资料都公开？",
+      "en": "Are we assuming all information is public?",
+      "ja": "情報が全部公開される前提？"
+    }
+  },
+  {
+    "id": 49,
+    "skill": "assumption",
+    "claim": {
+      "zh": "AI说：照这个计划肯定成功。",
+      "en": "AI: This plan guarantees success.",
+      "ja": "AI「この計画なら必ず成功」"
+    },
+    "good": {
+      "zh": "成功依赖哪些未说出的条件？",
+      "en": "What unstated conditions must hold?",
+      "ja": "どんな隠れた条件が必要？"
+    }
+  },
+  {
+    "id": 50,
+    "skill": "assumption",
+    "claim": {
+      "zh": "朋友说：没见过就不存在。",
+      "en": "Friend: Unseen things don't exist.",
+      "ja": "友達「見たことがなければ存在しない」"
+    },
+    "good": {
+      "zh": "自己的经历能涵盖所有吗？",
+      "en": "Can our experience cover everything?",
+      "ja": "自分の経験は全てを含む？"
+    }
+  },
+  {
+    "id": 51,
+    "skill": "assumption",
+    "claim": {
+      "zh": "AI说：有了提醒就不会忘。",
+      "en": "AI: A reminder prevents forgetting.",
+      "ja": "AI「通知があれば忘れない」"
+    },
+    "good": {
+      "zh": "是不是默认提醒会被看到？",
+      "en": "Are we assuming the reminder is noticed?",
+      "ja": "通知を見ることが前提？"
+    }
+  },
+  {
+    "id": 52,
+    "skill": "perspective",
+    "claim": {
+      "zh": "AI建议取消课间游戏。",
+      "en": "AI suggests removing break-time games.",
+      "ja": "AIが休み時間の遊びをなくす提案"
+    },
+    "good": {
+      "zh": "同学会怎么看这个建议？",
+      "en": "How would students see this suggestion?",
+      "ja": "生徒はこの案をどう見る？"
+    }
+  },
+  {
+    "id": 53,
+    "skill": "perspective",
+    "claim": {
+      "zh": "爸爸想选最安静的旅行。",
+      "en": "Dad wants the quietest trip.",
+      "ja": "パパは静かな旅行を希望"
+    },
+    "good": {
+      "zh": "Mark想要什么体验？",
+      "en": "What experience does Mark want?",
+      "ja": "Markは何を体験したい？"
+    }
+  },
+  {
+    "id": 54,
+    "skill": "perspective",
+    "claim": {
+      "zh": "AI只列出养猫的好处。",
+      "en": "AI lists only benefits of having a cat.",
+      "ja": "AIが猫を飼う利点だけを紹介"
+    },
+    "good": {
+      "zh": "不赞成的人会担心什么？",
+      "en": "What would opponents worry about?",
+      "ja": "反対する人は何を心配する？"
+    }
+  },
+  {
+    "id": 55,
+    "skill": "perspective",
+    "claim": {
+      "zh": "队长说：强者先选队。",
+      "en": "Captain: Strong players choose first.",
+      "ja": "キャプテン「強い人から選ぼう」"
+    },
+    "good": {
+      "zh": "新手会有什么感受？",
+      "en": "How would a beginner feel?",
+      "ja": "初心者はどう感じる？"
+    }
+  },
+  {
+    "id": 56,
+    "skill": "perspective",
+    "claim": {
+      "zh": "AI建议所有作业都在线交。",
+      "en": "AI: Submit all homework online.",
+      "ja": "AI「宿題は全部オンラインで」"
+    },
+    "good": {
+      "zh": "没有电脑的同学怎么看？",
+      "en": "What about students without a computer?",
+      "ja": "パソコンのない生徒は？"
+    }
+  },
+  {
+    "id": 57,
+    "skill": "perspective",
+    "claim": {
+      "zh": "朋友说：公园应该全铺草坪。",
+      "en": "Friend: Cover the park in grass.",
+      "ja": "友達「公園を全部芝生にしよう」"
+    },
+    "good": {
+      "zh": "轮椅使用者需要什么？",
+      "en": "What would wheelchair users need?",
+      "ja": "車いすの人には何が必要？"
+    }
+  },
+  {
+    "id": 58,
+    "skill": "perspective",
+    "claim": {
+      "zh": "AI说：机器人老师更好。",
+      "en": "AI: Robot teachers are better.",
+      "ja": "AI「ロボット先生のほうがいい」"
+    },
+    "good": {
+      "zh": "学生和老师各怎么看？",
+      "en": "How do students and teachers each see it?",
+      "ja": "生徒と先生はそれぞれどう見る？"
+    }
+  },
+  {
+    "id": 59,
+    "skill": "perspective",
+    "claim": {
+      "zh": "Mark想整天玩桌游。",
+      "en": "Mark wants board games all day.",
+      "ja": "Markは一日中ボードゲーム希望"
+    },
+    "good": {
+      "zh": "爸爸今天有什么安排？",
+      "en": "What does Dad have planned today?",
+      "ja": "パパの今日の予定は？"
+    }
+  },
+  {
+    "id": 60,
+    "skill": "perspective",
+    "claim": {
+      "zh": "AI建议城市禁行汽车。",
+      "en": "AI suggests banning cars in the city.",
+      "ja": "AIが街の車を禁止する提案"
+    },
+    "good": {
+      "zh": "送货司机会遇到什么困难？",
+      "en": "What difficulties would delivery drivers face?",
+      "ja": "配達員は何に困る？"
+    }
+  },
+  {
+    "id": 61,
+    "skill": "perspective",
+    "claim": {
+      "zh": "朋友说：只能用我的规则。",
+      "en": "Friend: Only my rules count.",
+      "ja": "友達「僕のルールだけで遊ぼう」"
+    },
+    "good": {
+      "zh": "换成对手你会怎样想？",
+      "en": "How would you see it as the opponent?",
+      "ja": "相手ならどう思う？"
+    }
+  },
+  {
+    "id": 62,
+    "skill": "perspective",
+    "claim": {
+      "zh": "AI说：最短的故事最好。",
+      "en": "AI: The shortest story is best.",
+      "ja": "AI「一番短い物語が最高」"
+    },
+    "good": {
+      "zh": "喜欢细节的读者怎么看？",
+      "en": "What would detail-loving readers think?",
+      "ja": "詳しい話が好きな読者は？"
+    }
+  },
+  {
+    "id": 63,
+    "skill": "perspective",
+    "claim": {
+      "zh": "爸爸说：生日只吃蔬菜。",
+      "en": "Dad: Only vegetables at the party.",
+      "ja": "パパ「誕生日会は野菜だけ」"
+    },
+    "good": {
+      "zh": "来参加的朋友希望什么？",
+      "en": "What would the guests hope for?",
+      "ja": "来る友達は何を望む？"
+    }
+  },
+  {
+    "id": 64,
+    "skill": "perspective",
+    "claim": {
+      "zh": "AI设计了很小的按钮。",
+      "en": "AI designs tiny buttons.",
+      "ja": "AIが小さなボタンを作った"
+    },
+    "good": {
+      "zh": "爷爷奶奶用起来怎样？",
+      "en": "How would grandparents use them?",
+      "ja": "祖父母には使いやすい？"
+    }
+  },
+  {
+    "id": 65,
+    "skill": "perspective",
+    "claim": {
+      "zh": "队友说：失败都怪守门员。",
+      "en": "Teammate blames the goalkeeper.",
+      "ja": "仲間が敗北をキーパーのせいにした"
+    },
+    "good": {
+      "zh": "守门员会怎么描述这场球？",
+      "en": "How would the keeper describe the game?",
+      "ja": "キーパーなら試合をどう語る？"
+    }
+  },
+  {
+    "id": 66,
+    "skill": "perspective",
+    "claim": {
+      "zh": "AI只推荐热闹的活动。",
+      "en": "AI recommends only noisy events.",
+      "ja": "AIがにぎやかな活動だけを推薦"
+    },
+    "good": {
+      "zh": "喜欢安静的人有什么选择？",
+      "en": "What options suit someone who likes quiet?",
+      "ja": "静けさが好きな人の選択肢は？"
+    }
+  },
+  {
+    "id": 67,
+    "skill": "perspective",
+    "claim": {
+      "zh": "朋友说：所有人都喜欢惊喜。",
+      "en": "Friend: Everyone loves surprises.",
+      "ja": "友達「皆サプライズが好き」"
+    },
+    "good": {
+      "zh": "不喜欢惊喜的人会怎么说？",
+      "en": "What would someone who dislikes surprises say?",
+      "ja": "苦手な人なら何と言う？"
+    }
+  },
+  {
+    "id": 68,
+    "skill": "perspective",
+    "claim": {
+      "zh": "AI推荐同一种学习方法。",
+      "en": "AI recommends one method for everyone.",
+      "ja": "AIが全員に同じ勉強法を推薦"
+    },
+    "good": {
+      "zh": "不同学习者会怎样体验？",
+      "en": "How would different learners experience it?",
+      "ja": "学ぶ人によって感じ方は？"
+    }
+  },
+  {
+    "id": 69,
+    "skill": "consequence",
+    "claim": {
+      "zh": "AI建议把所有玩具送人。",
+      "en": "AI suggests giving away every toy.",
+      "ja": "AIがおもちゃを全部あげる提案"
+    },
+    "good": {
+      "zh": "下次想玩时会怎样？",
+      "en": "What happens next time we want to play?",
+      "ja": "次に遊びたい時はどうなる？"
+    }
+  },
+  {
+    "id": 70,
+    "skill": "consequence",
+    "claim": {
+      "zh": "Mark想把零花钱一次花完。",
+      "en": "Mark wants to spend all his pocket money.",
+      "ja": "Markはお小遣いを全部使いたい"
+    },
+    "good": {
+      "zh": "下周需要买东西怎么办？",
+      "en": "What if we need something next week?",
+      "ja": "来週必要な物があったら？"
+    }
+  },
+  {
+    "id": 71,
+    "skill": "consequence",
+    "claim": {
+      "zh": "AI建议班级只奖励冠军。",
+      "en": "AI: Reward only the class winner.",
+      "ja": "AI「クラスの一位だけに賞を」"
+    },
+    "good": {
+      "zh": "其他人以后还愿意参加吗？",
+      "en": "Will the others want to join next time?",
+      "ja": "他の人も次に参加したくなる？"
+    }
+  },
+  {
+    "id": 72,
+    "skill": "consequence",
+    "claim": {
+      "zh": "朋友想跳过游戏规则。",
+      "en": "Friend wants to skip the rules.",
+      "ja": "友達はルール説明を飛ばしたい"
+    },
+    "good": {
+      "zh": "发生争议时怎么解决？",
+      "en": "How will disputes be resolved?",
+      "ja": "もめた時はどう解決する？"
+    }
+  },
+  {
+    "id": 73,
+    "skill": "consequence",
+    "claim": {
+      "zh": "AI建议删掉全部旧文件。",
+      "en": "AI suggests deleting all old files.",
+      "ja": "AIが古いファイルの全削除を提案"
+    },
+    "good": {
+      "zh": "如果还有用，能恢复吗？",
+      "en": "Can we restore them if still needed?",
+      "ja": "まだ必要なら復元できる？"
+    }
+  },
+  {
+    "id": 74,
+    "skill": "consequence",
+    "claim": {
+      "zh": "爸爸想把树全换成停车位。",
+      "en": "Dad suggests replacing trees with parking.",
+      "ja": "パパが木を駐車場に替える案"
+    },
+    "good": {
+      "zh": "夏天这里会有什么变化？",
+      "en": "How would this place change in summer?",
+      "ja": "夏にここはどう変わる？"
+    }
+  },
+  {
+    "id": 75,
+    "skill": "consequence",
+    "claim": {
+      "zh": "AI建议每次都直接给答案。",
+      "en": "AI: Always give the answer immediately.",
+      "ja": "AI「毎回すぐ答えを教えよう」"
+    },
+    "good": {
+      "zh": "长期会影响独立思考吗？",
+      "en": "How might this affect independent thinking?",
+      "ja": "長期的に自分で考える力は？"
+    }
+  },
+  {
+    "id": 76,
+    "skill": "consequence",
+    "claim": {
+      "zh": "朋友想拿走大家的积木。",
+      "en": "Friend wants everyone's building blocks.",
+      "ja": "友達が皆のブロックを持っていきたい"
+    },
+    "good": {
+      "zh": "其他人还能一起玩吗？",
+      "en": "Can the others still play together?",
+      "ja": "他の人も一緒に遊べる？"
+    }
+  },
+  {
+    "id": 77,
+    "skill": "consequence",
+    "claim": {
+      "zh": "AI建议全天打开游戏提醒。",
+      "en": "AI: Keep game alerts on all day.",
+      "ja": "AI「ゲーム通知を一日中オンに」"
+    },
+    "good": {
+      "zh": "专心做事时会发生什么？",
+      "en": "What happens when we try to focus?",
+      "ja": "集中したい時にどうなる？"
+    }
+  },
+  {
+    "id": 78,
+    "skill": "consequence",
+    "claim": {
+      "zh": "Mark想让机器人做所有家务。",
+      "en": "Mark wants robots to do all chores.",
+      "ja": "Markは家事を全部ロボットに任せたい"
+    },
+    "good": {
+      "zh": "机器人坏了我们怎么办？",
+      "en": "What happens if the robot breaks?",
+      "ja": "ロボットが壊れたらどうする？"
+    }
+  },
+  {
+    "id": 79,
+    "skill": "consequence",
+    "claim": {
+      "zh": "AI建议给每个任务加排名。",
+      "en": "AI: Rank everyone on every task.",
+      "ja": "AI「全ての課題に順位をつけよう」"
+    },
+    "good": {
+      "zh": "合作意愿可能怎样变化？",
+      "en": "How might willingness to cooperate change?",
+      "ja": "協力する気持ちはどう変わる？"
+    }
+  },
+  {
+    "id": 80,
+    "skill": "consequence",
+    "claim": {
+      "zh": "朋友想把秘密发到群里。",
+      "en": "Friend wants to post a secret in a group.",
+      "ja": "友達が秘密をグループに投稿したい"
+    },
+    "good": {
+      "zh": "被转发后还能收回吗？",
+      "en": "Can it be taken back after being forwarded?",
+      "ja": "転送された後に取り消せる？"
+    }
+  },
+  {
+    "id": 81,
+    "skill": "consequence",
+    "claim": {
+      "zh": "AI建议只练最擅长的题。",
+      "en": "AI: Practise only what you're good at.",
+      "ja": "AI「得意な問題だけ練習しよう」"
+    },
+    "good": {
+      "zh": "遇到新题会怎样？",
+      "en": "What happens with unfamiliar problems?",
+      "ja": "初めての問題に出会ったら？"
+    }
+  },
+  {
+    "id": 82,
+    "skill": "consequence",
+    "claim": {
+      "zh": "爸爸想将比赛时间减半。",
+      "en": "Dad wants to halve the match time.",
+      "ja": "パパは試合時間を半分にしたい"
+    },
+    "good": {
+      "zh": "慢热的选手会受什么影响？",
+      "en": "How are slow-starting players affected?",
+      "ja": "調子が出るのが遅い人への影響は？"
+    }
+  },
+  {
+    "id": 83,
+    "skill": "consequence",
+    "claim": {
+      "zh": "AI建议大家同时讲话。",
+      "en": "AI: Let everyone speak at once.",
+      "ja": "AI「全員同時に話そう」"
+    },
+    "good": {
+      "zh": "别人还能听清观点吗？",
+      "en": "Will people still hear each idea clearly?",
+      "ja": "一人ずつの意見が聞こえる？"
+    }
+  },
+  {
+    "id": 84,
+    "skill": "consequence",
+    "claim": {
+      "zh": "朋友想永远不修改计划。",
+      "en": "Friend: Never change the plan.",
+      "ja": "友達「計画は絶対変えない」"
+    },
+    "good": {
+      "zh": "条件改变后会发生什么？",
+      "en": "What happens when conditions change?",
+      "ja": "条件が変わったらどうなる？"
+    }
+  },
+  {
+    "id": 85,
+    "skill": "reflect",
+    "claim": {
+      "zh": "AI开始回答“谁最聪明”。",
+      "en": "AI starts ranking who is smartest.",
+      "ja": "AIが誰が一番賢いかを順位づけ"
+    },
+    "good": {
+      "zh": "我们真正想了解什么能力？",
+      "en": "Which ability do we really want to understand?",
+      "ja": "本当に知りたいのはどの能力？"
+    }
+  },
+  {
+    "id": 86,
+    "skill": "reflect",
+    "claim": {
+      "zh": "争论：猫好还是狗好？",
+      "en": "Debate: Are cats or dogs better?",
+      "ja": "議論「猫と犬どちらがいい？」"
+    },
+    "good": {
+      "zh": "我们是在为谁选择宠物？",
+      "en": "Who are we choosing a pet for?",
+      "ja": "誰のためにペットを選ぶ？"
+    }
+  },
+  {
+    "id": 87,
+    "skill": "reflect",
+    "claim": {
+      "zh": "AI回答：最快背完一本书。",
+      "en": "AI: How to memorise a book fastest.",
+      "ja": "AI「本を最速で暗記する方法」"
+    },
+    "good": {
+      "zh": "目标是背完还是理解？",
+      "en": "Is our goal memorising or understanding?",
+      "ja": "目的は暗記、それとも理解？"
+    }
+  },
+  {
+    "id": 88,
+    "skill": "reflect",
+    "claim": {
+      "zh": "朋友问：怎么永远不输？",
+      "en": "Friend: How can I never lose?",
+      "ja": "友達「絶対に負けない方法は？」"
+    },
+    "good": {
+      "zh": "改问如何进步会更有用吗？",
+      "en": "Would asking how to improve help more?",
+      "ja": "上達する方法を聞くほうが役立つ？"
+    }
+  },
+  {
+    "id": 89,
+    "skill": "reflect",
+    "claim": {
+      "zh": "AI推荐第十个学习软件。",
+      "en": "AI recommends a tenth study app.",
+      "ja": "AIが十個目の学習アプリを推薦"
+    },
+    "good": {
+      "zh": "我们的问题真是缺软件吗？",
+      "en": "Is a lack of apps really our problem?",
+      "ja": "本当の問題はアプリ不足？"
+    }
+  },
+  {
+    "id": 90,
+    "skill": "reflect",
+    "claim": {
+      "zh": "讨论只剩“谁的错”。",
+      "en": "The discussion is only about blame.",
+      "ja": "話し合いが責任探しだけになった"
+    },
+    "good": {
+      "zh": "改问如何修复会怎样？",
+      "en": "What if we ask how to fix things?",
+      "ja": "解決方法を聞いたらどうなる？"
+    }
+  },
+  {
+    "id": 91,
+    "skill": "reflect",
+    "claim": {
+      "zh": "AI帮忙写了很长的解释。",
+      "en": "AI writes a very long explanation.",
+      "ja": "AIがとても長い説明を書いた"
+    },
+    "good": {
+      "zh": "这个回答解决原问题了吗？",
+      "en": "Does this answer our original question?",
+      "ja": "元の問いに答えている？"
+    }
+  },
+  {
+    "id": 92,
+    "skill": "reflect",
+    "claim": {
+      "zh": "爸爸问：哪种课外班最贵？",
+      "en": "Dad: Which class costs the most?",
+      "ja": "パパ「一番高い習い事は？」"
+    },
+    "good": {
+      "zh": "我们想比较价格还是适合度？",
+      "en": "Are we comparing cost or suitability?",
+      "ja": "比べたいのは値段、それとも適性？"
+    }
+  },
+  {
+    "id": 93,
+    "skill": "reflect",
+    "claim": {
+      "zh": "AI一直推荐更快的方法。",
+      "en": "AI keeps recommending faster methods.",
+      "ja": "AIが速い方法ばかり提案する"
+    },
+    "good": {
+      "zh": "这次速度真是最重要的吗？",
+      "en": "Is speed our main priority this time?",
+      "ja": "今回は速さが最優先？"
+    }
+  },
+  {
+    "id": 94,
+    "skill": "reflect",
+    "claim": {
+      "zh": "朋友问：怎样让所有人喜欢我？",
+      "en": "Friend: How can everyone like me?",
+      "ja": "友達「全員に好かれるには？」"
+    },
+    "good": {
+      "zh": "这个目标是否需要调整？",
+      "en": "Should we rethink that goal?",
+      "ja": "その目標を見直す必要は？"
+    }
+  },
+  {
+    "id": 95,
+    "skill": "reflect",
+    "claim": {
+      "zh": "AI列出一百个旅游景点。",
+      "en": "AI lists a hundred attractions.",
+      "ja": "AIが観光地を百個挙げた"
+    },
+    "good": {
+      "zh": "先确认旅行目的会更好吗？",
+      "en": "Should we first clarify the purpose of the trip?",
+      "ja": "まず旅の目的を確認したら？"
+    }
+  },
+  {
+    "id": 96,
+    "skill": "reflect",
+    "claim": {
+      "zh": "争论：哪种颜色最厉害？",
+      "en": "Debate: Which colour is strongest?",
+      "ja": "議論「一番強い色は？」"
+    },
+    "good": {
+      "zh": "这个问题需要什么判断标准？",
+      "en": "What criteria does this question need?",
+      "ja": "この問いにはどんな基準が必要？"
+    }
+  },
+  {
+    "id": 97,
+    "skill": "reflect",
+    "claim": {
+      "zh": "AI只回答“是”或“不是”。",
+      "en": "AI answers only yes or no.",
+      "ja": "AIが「はい・いいえ」だけ回答"
+    },
+    "good": {
+      "zh": "换成开放式问题会怎样？",
+      "en": "What if we ask an open-ended question?",
+      "ja": "自由に答える問いに変えたら？"
+    }
+  },
+  {
+    "id": 98,
+    "skill": "reflect",
+    "claim": {
+      "zh": "Mark问：为什么我总是输？",
+      "en": "Mark: Why do I always lose?",
+      "ja": "Mark「なぜいつも負けるの？」"
+    },
+    "good": {
+      "zh": "“总是”这个问法准确吗？",
+      "en": "Is always an accurate way to frame this?",
+      "ja": "「いつも」という聞き方は正確？"
+    }
+  },
+  {
+    "id": 99,
+    "skill": "reflect",
+    "claim": {
+      "zh": "AI给出很自信的结论。",
+      "en": "AI gives a confident conclusion.",
+      "ja": "AIが自信満々に結論を出した"
+    },
+    "good": {
+      "zh": "我怎样的证据会改变看法？",
+      "en": "What evidence would change my own mind?",
+      "ja": "どんな証拠なら自分の考えが変わる？"
+    }
+  },
+  {
+    "id": 100,
+    "skill": "reflect",
+    "claim": {
+      "zh": "爸爸问：怎样比别人都快？",
+      "en": "Dad: How can I beat everyone's speed?",
+      "ja": "パパ「全員より速くなるには？」"
+    },
+    "good": {
+      "zh": "和昨天的自己比也有意义吗？",
+      "en": "Would comparing with yesterday's self help?",
+      "ja": "昨日の自分との比較も役立つ？"
+    }
+  }
+]

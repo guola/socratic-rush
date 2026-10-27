@@ -1,0 +1,100 @@
+clarify|AI说：这是最好的游戏。|AI: This is the best game.|AI「最高のゲームです」|“最好”按什么标准？|Best by which measure?|「最高」の基準は？
+clarify|爸爸说：早点出发。|Dad: Let's leave early.|パパ「早めに出よう」|具体几点出发？|What time exactly?|具体的に何時？
+clarify|AI说：每天练一会儿。|AI: Practise a little daily.|AI「毎日少し練習しよう」|“一会儿”是几分钟？|How many minutes is a little?|「少し」は何分？
+clarify|朋友说：这个太难了。|Friend: This is too hard.|友達「これは難しすぎる」|哪一步最难？|Which step is hardest?|どの手順が難しい？
+clarify|AI说：要更有创意。|AI: Be more creative.|AI「もっと創造的に」|能给一个具体例子吗？|Can you give a concrete example?|具体例を一つ教えて？
+clarify|老师说：多读书。|Teacher: Read more.|先生「もっと読書しよう」|目标是每天读多少？|How much should I read each day?|一日にどのくらい読む？
+clarify|AI说：这个方案更公平。|AI: This plan is fairer.|AI「この案はより公平です」|这里的“公平”指什么？|What does fair mean here?|ここで「公平」とは？
+clarify|Mark说：电脑好慢。|Mark: My computer is slow.|Mark「パソコンが遅い」|打开程序还是上网慢？|Slow to open apps or browse?|起動とネット、どちらが遅い？
+clarify|AI说：火星离我们很近。|AI: Mars is close to us.|AI「火星は近いです」|和什么相比算近？|Close compared with what?|何と比べて近い？
+clarify|爸爸说：要合理安排时间。|Dad: Use your time wisely.|パパ「時間をうまく使おう」|今天先安排哪三件事？|Which three tasks should we plan today?|今日は何を三つ計画する？
+clarify|AI说：这是健康的零食。|AI: This is a healthy snack.|AI「健康的なおやつです」|“健康”指哪项特点？|Which feature makes it healthy?|「健康的」とはどの特徴？
+clarify|队友说：我们要合作。|Teammate: We need teamwork.|仲間「協力しよう」|每个人具体做什么？|What exactly does each person do?|一人ずつ何をする？
+clarify|AI说：这个词很常用。|AI: This word is common.|AI「よく使う言葉です」|在什么场合常用？|Common in which situations?|どんな場面でよく使う？
+clarify|朋友说：你不够认真。|Friend: You're not trying.|友達「真剣じゃないね」|你指的是哪次行为？|Which action do you mean?|どの行動のこと？
+clarify|AI说：写一篇短文。|AI: Write a short piece.|AI「短い文を書こう」|大约需要多少字？|About how many words?|何文字くらい？
+clarify|AI说：优化这个提示词。|AI: Improve this prompt.|AI「このプロンプトを改善して」|想改善答案的哪一部分？|Which part of the answer needs improving?|回答のどの部分を改善したい？
+clarify|爸爸说：这次玩得很棒。|Dad: That was great play.|パパ「いいプレイだったね」|哪一个动作做得好？|Which move was good?|どの動きがよかった？
+evidence|AI说：章鱼有三颗心脏。|AI: Octopuses have three hearts.|AI「タコの心臓は三つです」|哪里能核实这个说法？|Where can we verify this?|どこで確認できる？
+evidence|广告说：全班都在玩。|Ad: Everyone in class plays.|広告「クラス全員が遊んでる」|调查了多少同学？|How many classmates were surveyed?|何人に調査した？
+evidence|AI给出一本陌生的书。|AI names an unfamiliar book.|AIが知らない本を紹介した|能给出可查的出版信息吗？|Can you give verifiable publication details?|確認できる出版情報は？
+evidence|朋友说：这招一定赢。|Friend: This move always wins.|友達「この技なら必ず勝つ」|试过多少次，输了几次？|How many tries and how many losses?|何回試して何回負けた？
+evidence|AI说：恐龙都很巨大。|AI: All dinosaurs were huge.|AI「恐竜は全部巨大でした」|有小型恐龙的化石吗？|Are there fossils of small dinosaurs?|小さい恐竜の化石はある？
+evidence|帖子说：这张图是真的。|Post: This picture is real.|投稿「この写真は本物です」|能找到最初的出处吗？|Can we find the original source?|元の出典を探せる？
+evidence|AI算出：17×8＝146。|AI says: 17 × 8 = 146.|AI「17×8＝146」|能拆开计算验证吗？|Can we split the calculation to check?|分けて計算して確認できる？
+evidence|爸爸说：这条路更快。|Dad: This route is faster.|パパ「この道のほうが速い」|两条路实际各用多久？|How long does each route actually take?|実際にそれぞれ何分かかる？
+evidence|AI说：九成人喜欢猫。|AI: Nine in ten prefer cats.|AI「9割の人は猫が好きです」|这项统计来自哪里？|Where does that statistic come from?|その統計の出典は？
+evidence|队友说：换球鞋就能赢。|Teammate: New shoes mean victory.|仲間「靴を替えれば勝てる」|有什么比较测试支持？|What comparison tests support that?|比較したテストはある？
+evidence|AI说：这句名言是苏格拉底说的。|AI credits a quote to Socrates.|AIが名言をソクラテスの言葉とした|最早记录在哪篇文献？|What is its earliest recorded source?|最古の記録はどの文献？
+evidence|朋友说：种子一天就发芽。|Friend: Seeds sprout in a day.|友達「種は一日で芽が出る」|有连续观察记录吗？|Do we have an observation log?|観察記録はある？
+evidence|AI说：这段程序不会报错。|AI: This code has no errors.|AI「このコードはエラーなし」|能用边界输入测试吗？|Can we test boundary inputs?|境界値でテストできる？
+evidence|短视频说：月亮会发光。|Video: The Moon makes light.|動画「月は自分で光る」|哪些观测支持这个解释？|What observations support that explanation?|どんな観測が根拠？
+evidence|AI说：新规则让人更开心。|AI: New rules make people happier.|AI「新ルールで皆が幸せに」|修改前后有反馈数据吗？|Is there feedback from before and after?|変更前後の感想データは？
+evidence|朋友说：我从来不迟到。|Friend: I am never late.|友達「絶対に遅刻しないよ」|这周的到达记录怎样？|What do this week's arrival records show?|今週の到着記録は？
+evidence|AI推荐一个科学实验。|AI suggests a science experiment.|AIが科学実験を提案した|结果能重复验证吗？|Can the result be reproduced?|結果を再現できる？
+assumption|AI说：买最贵的就最好。|AI: Buy the priciest; it's best.|AI「一番高い物が一番いい」|价格一定代表质量吗？|Does price always mean quality?|値段は必ず品質を表す？
+assumption|朋友说：输了就没天赋。|Friend: Losing means no talent.|友達「負けたら才能がない」|一次失败能代表能力吗？|Can one loss define ability?|一度の負けで能力は決まる？
+assumption|AI说：所有人都能骑车来。|AI: Everyone can cycle here.|AI「全員自転車で来られます」|是不是默认人人都有车？|Are we assuming everyone owns a bike?|全員が自転車を持つ前提？
+assumption|爸爸说：安静就是听懂了。|Dad: Quiet means you understand.|パパ「静かなら理解している」|沉默一定表示理解吗？|Does silence always mean understanding?|沈黙は必ず理解のしるし？
+assumption|AI说：下载软件就能学习。|AI: Downloading the app means learning.|AI「アプリを入れれば学べる」|是不是默认会坚持使用？|Are we assuming it will be used regularly?|使い続ける前提になっている？
+assumption|队友说：个子高就擅长篮球。|Teammate: Tall people are good at basketball.|仲間「背が高いとバスケが上手」|是不是忽略了训练？|Are we overlooking training?|練習を見落としていない？
+assumption|AI说：点赞多就可信。|AI: Many likes mean it's reliable.|AI「いいねが多ければ信頼できる」|人气等于真实吗？|Does popularity equal truth?|人気は真実と同じ？
+assumption|朋友说：大人永远是对的。|Friend: Adults are always right.|友達「大人はいつも正しい」|是不是默认年龄保证正确？|Are we assuming age guarantees accuracy?|年齢が正しさを保証する前提？
+assumption|AI说：周末大家都有空。|AI: Everyone is free on weekends.|AI「週末は皆ひまです」|是不是假设日程都一样？|Are we assuming identical schedules?|皆の予定が同じという前提？
+assumption|AI说：长答案比短答案好。|AI: Long answers are better.|AI「長い回答のほうがいい」|是不是把长度当成质量？|Are we treating length as quality?|長さを品質とみなしていない？
+assumption|爸爸说：第一名一定最努力。|Dad: First place worked the hardest.|パパ「一位が一番努力した」|是不是忽略了起点差异？|Are we ignoring different starting points?|スタート地点の違いは？
+assumption|AI说：更多作业带来更好成绩。|AI: More homework means better scores.|AI「宿題が多いほど成績が上がる」|是不是默认数量决定效果？|Are we assuming quantity determines results?|量で効果が決まる前提？
+assumption|朋友说：没人反对就是同意。|Friend: No objections means agreement.|友達「反対がなければ賛成だ」|是不是默认每个人敢发言？|Are we assuming everyone feels able to speak?|全員が意見を言える前提？
+assumption|AI说：有网络就能查到一切。|AI: The web has every answer.|AI「ネットで全部分かる」|是不是默认资料都公开？|Are we assuming all information is public?|情報が全部公開される前提？
+assumption|AI说：照这个计划肯定成功。|AI: This plan guarantees success.|AI「この計画なら必ず成功」|成功依赖哪些未说出的条件？|What unstated conditions must hold?|どんな隠れた条件が必要？
+assumption|朋友说：没见过就不存在。|Friend: Unseen things don't exist.|友達「見たことがなければ存在しない」|自己的经历能涵盖所有吗？|Can our experience cover everything?|自分の経験は全てを含む？
+assumption|AI说：有了提醒就不会忘。|AI: A reminder prevents forgetting.|AI「通知があれば忘れない」|是不是默认提醒会被看到？|Are we assuming the reminder is noticed?|通知を見ることが前提？
+perspective|AI建议取消课间游戏。|AI suggests removing break-time games.|AIが休み時間の遊びをなくす提案|同学会怎么看这个建议？|How would students see this suggestion?|生徒はこの案をどう見る？
+perspective|爸爸想选最安静的旅行。|Dad wants the quietest trip.|パパは静かな旅行を希望|Mark想要什么体验？|What experience does Mark want?|Markは何を体験したい？
+perspective|AI只列出养猫的好处。|AI lists only benefits of having a cat.|AIが猫を飼う利点だけを紹介|不赞成的人会担心什么？|What would opponents worry about?|反対する人は何を心配する？
+perspective|队长说：强者先选队。|Captain: Strong players choose first.|キャプテン「強い人から選ぼう」|新手会有什么感受？|How would a beginner feel?|初心者はどう感じる？
+perspective|AI建议所有作业都在线交。|AI: Submit all homework online.|AI「宿題は全部オンラインで」|没有电脑的同学怎么看？|What about students without a computer?|パソコンのない生徒は？
+perspective|朋友说：公园应该全铺草坪。|Friend: Cover the park in grass.|友達「公園を全部芝生にしよう」|轮椅使用者需要什么？|What would wheelchair users need?|車いすの人には何が必要？
+perspective|AI说：机器人老师更好。|AI: Robot teachers are better.|AI「ロボット先生のほうがいい」|学生和老师各怎么看？|How do students and teachers each see it?|生徒と先生はそれぞれどう見る？
+perspective|Mark想整天玩桌游。|Mark wants board games all day.|Markは一日中ボードゲーム希望|爸爸今天有什么安排？|What does Dad have planned today?|パパの今日の予定は？
+perspective|AI建议城市禁行汽车。|AI suggests banning cars in the city.|AIが街の車を禁止する提案|送货司机会遇到什么困难？|What difficulties would delivery drivers face?|配達員は何に困る？
+perspective|朋友说：只能用我的规则。|Friend: Only my rules count.|友達「僕のルールだけで遊ぼう」|换成对手你会怎样想？|How would you see it as the opponent?|相手ならどう思う？
+perspective|AI说：最短的故事最好。|AI: The shortest story is best.|AI「一番短い物語が最高」|喜欢细节的读者怎么看？|What would detail-loving readers think?|詳しい話が好きな読者は？
+perspective|爸爸说：生日只吃蔬菜。|Dad: Only vegetables at the party.|パパ「誕生日会は野菜だけ」|来参加的朋友希望什么？|What would the guests hope for?|来る友達は何を望む？
+perspective|AI设计了很小的按钮。|AI designs tiny buttons.|AIが小さなボタンを作った|爷爷奶奶用起来怎样？|How would grandparents use them?|祖父母には使いやすい？
+perspective|队友说：失败都怪守门员。|Teammate blames the goalkeeper.|仲間が敗北をキーパーのせいにした|守门员会怎么描述这场球？|How would the keeper describe the game?|キーパーなら試合をどう語る？
+perspective|AI只推荐热闹的活动。|AI recommends only noisy events.|AIがにぎやかな活動だけを推薦|喜欢安静的人有什么选择？|What options suit someone who likes quiet?|静けさが好きな人の選択肢は？
+perspective|朋友说：所有人都喜欢惊喜。|Friend: Everyone loves surprises.|友達「皆サプライズが好き」|不喜欢惊喜的人会怎么说？|What would someone who dislikes surprises say?|苦手な人なら何と言う？
+perspective|AI推荐同一种学习方法。|AI recommends one method for everyone.|AIが全員に同じ勉強法を推薦|不同学习者会怎样体验？|How would different learners experience it?|学ぶ人によって感じ方は？
+consequence|AI建议把所有玩具送人。|AI suggests giving away every toy.|AIがおもちゃを全部あげる提案|下次想玩时会怎样？|What happens next time we want to play?|次に遊びたい時はどうなる？
+consequence|Mark想把零花钱一次花完。|Mark wants to spend all his pocket money.|Markはお小遣いを全部使いたい|下周需要买东西怎么办？|What if we need something next week?|来週必要な物があったら？
+consequence|AI建议班级只奖励冠军。|AI: Reward only the class winner.|AI「クラスの一位だけに賞を」|其他人以后还愿意参加吗？|Will the others want to join next time?|他の人も次に参加したくなる？
+consequence|朋友想跳过游戏规则。|Friend wants to skip the rules.|友達はルール説明を飛ばしたい|发生争议时怎么解决？|How will disputes be resolved?|もめた時はどう解決する？
+consequence|AI建议删掉全部旧文件。|AI suggests deleting all old files.|AIが古いファイルの全削除を提案|如果还有用，能恢复吗？|Can we restore them if still needed?|まだ必要なら復元できる？
+consequence|爸爸想把树全换成停车位。|Dad suggests replacing trees with parking.|パパが木を駐車場に替える案|夏天这里会有什么变化？|How would this place change in summer?|夏にここはどう変わる？
+consequence|AI建议每次都直接给答案。|AI: Always give the answer immediately.|AI「毎回すぐ答えを教えよう」|长期会影响独立思考吗？|How might this affect independent thinking?|長期的に自分で考える力は？
+consequence|朋友想拿走大家的积木。|Friend wants everyone's building blocks.|友達が皆のブロックを持っていきたい|其他人还能一起玩吗？|Can the others still play together?|他の人も一緒に遊べる？
+consequence|AI建议全天打开游戏提醒。|AI: Keep game alerts on all day.|AI「ゲーム通知を一日中オンに」|专心做事时会发生什么？|What happens when we try to focus?|集中したい時にどうなる？
+consequence|Mark想让机器人做所有家务。|Mark wants robots to do all chores.|Markは家事を全部ロボットに任せたい|机器人坏了我们怎么办？|What happens if the robot breaks?|ロボットが壊れたらどうする？
+consequence|AI建议给每个任务加排名。|AI: Rank everyone on every task.|AI「全ての課題に順位をつけよう」|合作意愿可能怎样变化？|How might willingness to cooperate change?|協力する気持ちはどう変わる？
+consequence|朋友想把秘密发到群里。|Friend wants to post a secret in a group.|友達が秘密をグループに投稿したい|被转发后还能收回吗？|Can it be taken back after being forwarded?|転送された後に取り消せる？
+consequence|AI建议只练最擅长的题。|AI: Practise only what you're good at.|AI「得意な問題だけ練習しよう」|遇到新题会怎样？|What happens with unfamiliar problems?|初めての問題に出会ったら？
+consequence|爸爸想将比赛时间减半。|Dad wants to halve the match time.|パパは試合時間を半分にしたい|慢热的选手会受什么影响？|How are slow-starting players affected?|調子が出るのが遅い人への影響は？
+consequence|AI建议大家同时讲话。|AI: Let everyone speak at once.|AI「全員同時に話そう」|别人还能听清观点吗？|Will people still hear each idea clearly?|一人ずつの意見が聞こえる？
+consequence|朋友想永远不修改计划。|Friend: Never change the plan.|友達「計画は絶対変えない」|条件改变后会发生什么？|What happens when conditions change?|条件が変わったらどうなる？
+reflect|AI开始回答“谁最聪明”。|AI starts ranking who is smartest.|AIが誰が一番賢いかを順位づけ|我们真正想了解什么能力？|Which ability do we really want to understand?|本当に知りたいのはどの能力？
+reflect|争论：猫好还是狗好？|Debate: Are cats or dogs better?|議論「猫と犬どちらがいい？」|我们是在为谁选择宠物？|Who are we choosing a pet for?|誰のためにペットを選ぶ？
+reflect|AI回答：最快背完一本书。|AI: How to memorise a book fastest.|AI「本を最速で暗記する方法」|目标是背完还是理解？|Is our goal memorising or understanding?|目的は暗記、それとも理解？
+reflect|朋友问：怎么永远不输？|Friend: How can I never lose?|友達「絶対に負けない方法は？」|改问如何进步会更有用吗？|Would asking how to improve help more?|上達する方法を聞くほうが役立つ？
+reflect|AI推荐第十个学习软件。|AI recommends a tenth study app.|AIが十個目の学習アプリを推薦|我们的问题真是缺软件吗？|Is a lack of apps really our problem?|本当の問題はアプリ不足？
+reflect|讨论只剩“谁的错”。|The discussion is only about blame.|話し合いが責任探しだけになった|改问如何修复会怎样？|What if we ask how to fix things?|解決方法を聞いたらどうなる？
+reflect|AI帮忙写了很长的解释。|AI writes a very long explanation.|AIがとても長い説明を書いた|这个回答解决原问题了吗？|Does this answer our original question?|元の問いに答えている？
+reflect|爸爸问：哪种课外班最贵？|Dad: Which class costs the most?|パパ「一番高い習い事は？」|我们想比较价格还是适合度？|Are we comparing cost or suitability?|比べたいのは値段、それとも適性？
+reflect|AI一直推荐更快的方法。|AI keeps recommending faster methods.|AIが速い方法ばかり提案する|这次速度真是最重要的吗？|Is speed our main priority this time?|今回は速さが最優先？
+reflect|朋友问：怎样让所有人喜欢我？|Friend: How can everyone like me?|友達「全員に好かれるには？」|这个目标是否需要调整？|Should we rethink that goal?|その目標を見直す必要は？
+reflect|AI列出一百个旅游景点。|AI lists a hundred attractions.|AIが観光地を百個挙げた|先确认旅行目的会更好吗？|Should we first clarify the purpose of the trip?|まず旅の目的を確認したら？
+reflect|争论：哪种颜色最厉害？|Debate: Which colour is strongest?|議論「一番強い色は？」|这个问题需要什么判断标准？|What criteria does this question need?|この問いにはどんな基準が必要？
+reflect|AI只回答“是”或“不是”。|AI answers only yes or no.|AIが「はい・いいえ」だけ回答|换成开放式问题会怎样？|What if we ask an open-ended question?|自由に答える問いに変えたら？
+reflect|Mark问：为什么我总是输？|Mark: Why do I always lose?|Mark「なぜいつも負けるの？」|“总是”这个问法准确吗？|Is always an accurate way to frame this?|「いつも」という聞き方は正確？
+reflect|AI给出很自信的结论。|AI gives a confident conclusion.|AIが自信満々に結論を出した|我怎样的证据会改变看法？|What evidence would change my own mind?|どんな証拠なら自分の考えが変わる？
+reflect|爸爸问：怎样比别人都快？|Dad: How can I beat everyone's speed?|パパ「全員より速くなるには？」|和昨天的自己比也有意义吗？|Would comparing with yesterday's self help?|昨日の自分との比較も役立つ？
